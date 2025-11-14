@@ -1,0 +1,1 @@
+<span class="font-serif text-2xl sm:text-3xl antialiased font-medium">KABA</span>
